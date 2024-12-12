@@ -92,7 +92,7 @@ To apply the patch, follow the steps below.
 </ul>
 
 <h2>What's Changed</h2>
-<img width="267" height="196" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/whats_changed.png?raw=true">
+<img width="250" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/whats_changed.png?raw=true">
 <ul>
    <li>All text has been translated to English.</li>
    <ul>
