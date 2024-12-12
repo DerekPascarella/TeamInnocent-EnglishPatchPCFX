@@ -38,7 +38,7 @@ To apply the patch, follow the steps below.
     <b>Programming / Hacking</b>
   </li>
   <ul>
-    <li>CheekyBug</li>
+    <li>Elmer</li>
     <li>EsperKnight</li>
   </ul>
   <br>
