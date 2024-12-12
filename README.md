@@ -95,7 +95,10 @@ To apply the patch, follow the steps below.
 <ul>
  <li>ASCII support (instead of solely Shift-JIS) added to text-rendering routine.</li>
  <li>A new bi-width font has been implemented.</li>
- <li>All text has been translated to English.</li>
+ <li>All dialogue text has been translated to English.</li>
+ <li>All non-FMV cutscene text has been translated to English.</li>
+ <li>All menu and system messgae text has been translated to English.</li>
+ <li>Staff credits have been translated to english.</li>
 </ul>
 
 <h2>About the Game</h2>
