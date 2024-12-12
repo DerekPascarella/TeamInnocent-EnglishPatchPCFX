@@ -27,9 +27,7 @@ To apply the patch, follow the steps below.
 <ol type="1">
    <li>Extract the release package ZIP to any folder of your choosing.</li>
    <li>Place the entire Redump disc image in the <tt>original_redump_disc_image</tt> folder (as per the screenshot below).</li>
-   <br>
    <img src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/instructions_1.png?raw=true">
-   <br>
    <li>Lanch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch.</li>
    <li>Upon successful completion, the patched disc image (in CUE/ISO/BIN format) will reside in the <tt>patched_disc_image</tt> folder. This disc image is acceptable for burning and using on real PC-FX hardware, or for using with an emulator.</li>
 </ol>
