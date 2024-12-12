@@ -38,6 +38,7 @@ To apply the patch, follow the steps below.
    <ul>
       <li>Elmer</li>
       <li>EsperKnight</li>
+      <li>Derek Pascarella (ateam)</li>
    </ul>
    <br>
    <li>
