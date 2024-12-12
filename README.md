@@ -1,5 +1,5 @@
 <h1>Team Innocent: The Point of No Return</h1>
-<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/blob/main/images/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return" on the NEC PC-FX.
+<img width="165" height="165" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return" on the NEC PC-FX.
 <br><br>
 "Team Innocent: The Point of No Return" is set in the future, beginning with the Galactic Police discovering that a scientist named Cronus has conducted genetic experiments on human beings. The police chief rescues three little girls, each of whom bears the traces of these experiments. Fast-forward fifteen years: the three young women - Saki, Lilis, and Ariel - now work for the Galactic Police, determined to find the truth behind their origins, and the nature of the experiments. They are sent on three dangerous missions - missions they might not survive...
 <br><br>
