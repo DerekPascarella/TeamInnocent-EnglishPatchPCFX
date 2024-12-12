@@ -133,7 +133,7 @@ To apply the patch, follow the steps below.
 <h2>Known Issues and Project Roadmap</h2>
 As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
 <br><br>
-Additionally, no graphics containing Japanese text have been modified (such as the one seen below) in version 0.9, though this project aims to tackle them eventually.
+Additionally, the very few instances of graphics containing Japanese text have not been modified in version 0.9, though this project aims to tackle them eventually. See example below.
 <br><br>
 <img width="432" height="348" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/known_issues_1.png?raw=true">
 
