@@ -66,7 +66,7 @@ To apply the patch, follow the steps below.
       <li>Josh (hasnopants)</li>
       <li>Sputnik34</li>
       <li>Galaga</li>
-      <li>xxx</li>
+      <li>articution</li>
       <li>xxx</li>
    </ul>
    <br>
