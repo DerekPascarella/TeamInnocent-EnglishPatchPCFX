@@ -101,7 +101,7 @@ To apply the patch, follow the steps below.
     <li>Menu and system messages.</li>
     <li>Staff credits.</li>
    </ul>
-   <li>ASCII support added to text-rendering routine (instead of solely Shift-JIS).</li>
+   <li>ASCII support added to text-rendering routine.</li>
    <li>A new bi-width font has been implemented.</li>
 </ul>
 
