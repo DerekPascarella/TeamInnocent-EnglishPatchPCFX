@@ -92,7 +92,7 @@ To apply the patch, follow the steps below.
 </ul>
 
 <h2>What's Changed</h2>
-<ul>
+<img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/whats_changed.png?raw=true"><ul>
  <li>ASCII support (instead of solely Shift-JIS) added to text-rendering routine.</li>
  <li>A new bi-width font has been implemented.</li>
  <li>All dialogue text has been translated to English.</li>
