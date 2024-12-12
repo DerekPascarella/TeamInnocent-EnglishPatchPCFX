@@ -20,7 +20,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 7. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
-A custom patch-applying kit is supplied with this English translation patch release. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
+This English translation patch release includes a custom patch-applying kit. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
 <br><br>
 To apply the patch, follow the steps below.
 <br><br>
@@ -36,46 +36,52 @@ To apply the patch, follow the steps below.
 
 <h2>Credits</h2>
 <ul>
-  <li>
-    <b>Programming / Hacking</b>
-  </li>
-  <ul>
-    <li>Elmer</li>
-    <li>EsperKnight</li>
-  </ul>
-  <br>
-  <li>
-    <b>Translation</b>
-  </li>
-  <ul>
-    <li>Filler</li>
-  </ul>
-  <br>
-  <li>
-    <b>Editing</b>
-  </li>
-  <ul>
-    <li>Eien ni Hen</li>
-    <li>Josh (hasnopants)</li>
-  </ul>
-  <br>
-  <li>
-    <b>Playtesting</b>
-  </li>
-  <ul>
-    <li>Josh (hasnopants)</li>
-    <li>Sputnik34</li>
-    <li>Galaga</li>
-    <li>xxx</li>
-    <li>xxx</li>  
-  </ul>
-  <br>
-  <li>
-    <b>Project Management</b>
-  </li>
-  <ul>
-    <li>Derek Pascarella (ateam)</li>
-  </ul>
+   <li>
+      <b>Programming / Hacking</b>
+   </li>
+   <ul>
+      <li>Elmer</li>
+      <li>EsperKnight</li>
+   </ul>
+   <br>
+   <li>
+      <b>Translation</b>
+   </li>
+   <ul>
+      <li>Filler</li>
+   </ul>
+   <br>
+   <li>
+      <b>Editing</b>
+   </li>
+   <ul>
+      <li>Eien ni Hen</li>
+      <li>Josh (hasnopants)</li>
+   </ul>
+   <br>
+   <li>
+      <b>Playtesting</b>
+   </li>
+   <ul>
+      <li>Josh (hasnopants)</li>
+      <li>Sputnik34</li>
+      <li>Galaga</li>
+      <li>xxx</li>
+      <li>xxx</li>
+   </ul>
+   <br>
+   <li>
+      <b>Project Management</b>
+   </li>
+   <ul>
+      <li>Derek Pascarella (ateam)</li>
+   </ul>
+   <li>
+      <b>Special Thanks</b>
+   </li>
+   <ul>
+      <li>David Shadoff</li>
+   </ul>
 </ul>
 
 <h2>Release Changelog</h2>
