@@ -13,8 +13,8 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 2. [Credits](#credits)
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
-5. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
-6. [About the Game](#about-the-game)
+5. [About the Game](#about-the-game)
+6. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
 7. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
@@ -91,13 +91,6 @@ To apply the patch, follow the steps below.
  <li>All text has been translated to English.</li>
 </ul>
 
-<h2>Known Issues and Project Roadmap</h2>
-As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
-<br><br>
-Additionally, no graphics containing Japanese text have been modified (such as the one seen below) in version 0.9, though this project aims to tackle them eventually.
-<br><br>
-<img width="432" height="348" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/known_issues_1.png?raw=true">
-
 <h2>About the Game</h2>
 <table>
    <tr>
@@ -121,6 +114,13 @@ Additionally, no graphics containing Japanese text have been modified (such as t
    </tr>
    </tr>
 </table>
+
+<h2>Known Issues and Project Roadmap</h2>
+As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
+<br><br>
+Additionally, no graphics containing Japanese text have been modified (such as the one seen below) in version 0.9, though this project aims to tackle them eventually.
+<br><br>
+<img width="432" height="348" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/known_issues_1.png?raw=true">
 
 <h2>Reporting Bugs and Typos</h2>
 Even after extensive testing on both real hardware and on emulators, the presence of bugs or typos may be possible. Should a player encounter any such issue, it's kindly requested that they <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/issues/new">submit a new issue</a> to this project page, including as much detailed information as possible.
