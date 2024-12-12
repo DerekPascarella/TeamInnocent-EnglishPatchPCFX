@@ -13,10 +13,9 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 2. [Credits](#credits)
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
-5. [About the Game](#about-the-game)
-8. [How to Play](#how-to-play)
-9. [Good and Bad Endings](#good-and-bad-endings)
-10. [FMV Playlist](#fmv-playlist)
+5. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
+6. [About the Game](#about-the-game)
+7. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
 A custom patch-applying kit is supplied with this English translation patch release. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
@@ -92,6 +91,9 @@ To apply the patch, follow the steps below.
  <li>All text has been translated to English.</li>
 </ul>
 
+<h2>Known Issues and Project Roadmap</h2>
+As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
+
 <h2>About the Game</h2>
 <table>
    <tr>
@@ -115,3 +117,6 @@ To apply the patch, follow the steps below.
    </tr>
    </tr>
 </table>
+
+<h2>Reporting Bugs and Typos</h2>
+Even after extensive testing on both real hardware and on emulators, the presence of bugs or typos may be possible. Should a player encounter any such issue, it's kindly requested that they <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/issues/new">submit a new issue</a> to this project page, including as much detailed information as possible.
