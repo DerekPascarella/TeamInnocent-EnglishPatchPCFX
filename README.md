@@ -113,7 +113,7 @@ To apply the patch, follow the steps below.
    </tr>
    <tr>
       <td><b>Release Date</b></td>
-      <td>December 23, 1994</td>
+      <td>1994-12-23</td>
    </tr>
    <tr>
       <td><b>Supported Peripherals</b></td>
