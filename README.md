@@ -65,6 +65,7 @@ To apply the patch, follow the steps below.
       <li>Sputnik34</li>
       <li>Galaga</li>
       <li>articution</li>
+      <li>Regis Galland</li>      
    </ul>
    <br>
    <li>
