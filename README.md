@@ -24,7 +24,7 @@ A custom patch-applying kit is supplied with this English translation patch rele
 To apply the patch, follow the steps below.
 <br><br>
 <ol type="1">
-   <li>Extract the release package ZIP file to any folder of your choosing.</li>
+   <li>Extract the release package ZIP to any folder of your choosing.</li>
    <li>Place the entire Redump disc image in the <tt>original_redump_disc_image</tt> folder (as per the screenshot below).</li>
    <br>
    <img src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/instructions_1.png?raw=true">
