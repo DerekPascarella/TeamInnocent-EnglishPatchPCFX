@@ -64,7 +64,7 @@ To apply the patch, follow the steps below.
   <ul>
     <li>Josh (hasnopants)</li>
     <li>Sputnik34</li>
-    <li>xxx</li>
+    <li>Galaga</li>
     <li>xxx</li>
     <li>xxx</li>  
   </ul>
