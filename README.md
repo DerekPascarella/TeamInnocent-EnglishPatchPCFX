@@ -1,5 +1,5 @@
 <h1>Team Innocent: The Point of No Return</h1>
-<img width="165" height="215" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return" on the NEC PC-FX.
+<img width="165" height="215" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return" on the NEC PC-FX.
 <br><br>
 "Team Innocent: The Point of No Return" is set in the future, beginning with the Galactic Police discovering that a scientist named Cronus has conducted genetic experiments on human beings. The police chief rescues three little girls, each of whom bears the traces of these experiments. Fast-forward fifteen years: the three young women - Saki, Lilis, and Ariel - now work for the Galactic Police, determined to find the truth behind their origins, and the nature of the experiments. They are sent on three dangerous missions - missions they might not survive...
 <br><br>
@@ -26,7 +26,7 @@ To apply the patch, follow the steps below.
    <li>Extract the release package ZIP to any folder of your choosing.</li>
    <li>Place the entire Redump disc image in the <tt>original_redump_disc_image</tt> folder (as per the screenshot below).</li>
    <br>
-   <img src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/instructions_1.png?raw=true">
+   <img src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/instructions_1.png?raw=true">
    <br>
    <li>Lanch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch.</li>
    <li>Upon successful completion, the patched disc image will reside in the <tt>patched_disc_image</tt> folder.</li>
@@ -93,6 +93,10 @@ To apply the patch, follow the steps below.
 
 <h2>Known Issues and Project Roadmap</h2>
 As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
+<br><br>
+Additionally, no graphics containing Japanese text have been modified (such as the one seen below).
+<br><br>
+<img width="432" height="348" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/known_issues_1.png?raw=true">
 
 <h2>About the Game</h2>
 <table>
