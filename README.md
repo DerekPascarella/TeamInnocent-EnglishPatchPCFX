@@ -75,6 +75,7 @@ To apply the patch, follow the steps below.
    <ul>
       <li>Derek Pascarella (ateam)</li>
    </ul>
+   <br>
    <li>
       <b>Special Thanks</b>
    </li>
