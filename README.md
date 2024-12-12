@@ -95,10 +95,13 @@ To apply the patch, follow the steps below.
 <img width="267" height="196" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/whats_changed.png?raw=true"><ul>
  <li>ASCII support (instead of solely Shift-JIS) added to text-rendering routine.</li>
  <li>A new bi-width font has been implemented.</li>
- <li>All dialogue text has been translated to English.</li>
- <li>All non-FMV cutscene text has been translated to English.</li>
- <li>All menu and system messgae text has been translated to English.</li>
- <li>Staff credits have been translated to english.</li>
+ <li>All text has been translated to English.</li>
+   <ul>
+    <li>Dialogue text.</li>
+    <li>Non-FMV cutscene text.</li>
+    <li>Menu and system messages.</li>
+    <li>Staff credits.</li>
+   </ul>
 </ul>
 
 <h2>About the Game</h2>
