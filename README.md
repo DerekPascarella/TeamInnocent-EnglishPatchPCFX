@@ -5,8 +5,6 @@
 <br><br>
 Fast-forward fifteen years, the three young women - Saki, Lilis, and Ariel - now work for the Galactic Police, and are determined to find the truth behind their origins (and the experiments). They're sent on three dangerous missions - missions they might not survive...
 <br><br>
-"Team Innocent: The Point of No Return - G.C.P.O.SS" is an adventure game with action elements, consisting of three separate missions. The player controls Saki most of the time, but other girls temporarily become available as playable characters as well. The heroine must explore a large location, collecting items and solving a few puzzles on the way. The young women can also find and equip various weapons, from pistols to axes. The player can choose one of the four action modes: punching, kicking, shooting, and (in specific instances only) jumping. The girls are navigated from third-person perspective on pre-rendered backgrounds with constantly changing camera angles, similarly to the "Alone in the Dark" games, except for the protagonists being sprites and not 3D models. The game has a few anime-style cutscenes and voice-overs for dialogues.
-<br><br>
 The latest version of this patch is <a href="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/releases/download/1.0/Jung.Rhythm.English.-.v1.0.zip">0.9</a>.
 
 <h2>Table of Contents</h2>
@@ -122,6 +120,7 @@ To apply the patch, follow the steps below.
    </tr>
    </tr>
 </table>
+"Team Innocent: The Point of No Return - G.C.P.O.SS" is an adventure game with action elements, consisting of three separate missions. The player controls Saki most of the time, but other girls temporarily become available as playable characters as well. The heroine must explore a large location, collecting items and solving a few puzzles on the way. The young women can also find and equip various weapons, from pistols to axes. The player can choose one of the four action modes: punching, kicking, shooting, and (in specific instances only) jumping. The girls are navigated from third-person perspective on pre-rendered backgrounds with constantly changing camera angles, similarly to the "Alone in the Dark" games, except for the protagonists being sprites and not 3D models. The game has a few anime-style cutscenes and voice-overs for dialogues.
 
 <h2>Known Issues and Project Roadmap</h2>
 As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
