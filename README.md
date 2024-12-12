@@ -86,7 +86,7 @@ To apply the patch, follow the steps below.
 
 <h2>What's Changed</h2>
 <ul>
- <li>ASCII support added (instead of solely Shift-JIS).</li>
+ <li>ASCII support (instead of solely Shift-JIS) added to text-rendering routine.</li>
  <li>A new bi-width font has been implemented.</li>
  <li>All text has been translated to English.</li>
 </ul>
