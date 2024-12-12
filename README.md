@@ -36,34 +36,47 @@ To apply the patch, follow the steps below.
     <b>Programming / Hacking</b>
   </li>
   <ul>
-    <li>Derek Pascarella (ateam)</li>
+    <li>CheekyBug</li>
+    <li>EsperKnight</li>
   </ul>
   <br>
   <li>
     <b>Translation</b>
   </li>
   <ul>
-    <li>wiredcrackpot</li>
+    <li>Filler</li>
   </ul>
   <br>
   <li>
-    <b>Audio / Video</b>
+    <b>Editing</b>
   </li>
   <ul>
-    <li>Shadowmask</li>
+    <li>Eien ni Hen</li>
+    <li>Josh (hasnopants)</li>
   </ul>
   <br>
   <li>
-    <b>Graphics</b>
+    <b>Playtesting</b>
   </li>
   <ul>
-    <li>Malenko</li>
+    <li>Josh (hasnopants)</li>
+    <li>Sputnik34</li>
+    <li>xxx</li>
+    <li>xxx</li>
+    <li>xxx</li>  
+  </ul>
+  <br>
+  <li>
+    <b>Project Management</b>
+  </li>
+  <ul>
+    <li>Derek Pascarella (ateam)</li>
   </ul>
 </ul>
 
 <h2>Release Changelog</h2>
 <ul>
- <li><b>Version 1.0 (2024-04-20)</b></li>
+ <li><b>Version 0.9 (2024-12-23)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
