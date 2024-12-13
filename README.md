@@ -175,7 +175,7 @@ To apply the patch, follow the steps below.
    <table>
       <tr>
          <td>
-            Exame Object
+            Examine Object
          </td>
          <td>
             I button
@@ -211,6 +211,14 @@ To apply the patch, follow the steps below.
          </td>
          <td>
             Up on directional pad twice (quickly) and hold
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Dodge
+         </td>
+         <td>
+            Back on directional pad twice (quickly)
          </td>
       </tr>
    </table>
