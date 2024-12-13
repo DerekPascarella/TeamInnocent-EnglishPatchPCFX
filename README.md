@@ -1,5 +1,5 @@
 <h1>Team Innocent: The Point of No Return - "G.C.P.O.SS"</h1>
-<img width="165" height="215" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return - G.C.P.O.SS" on the NEC PC-FX.
+<img width="165" height="218" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return - G.C.P.O.SS" on the NEC PC-FX.
 <br><br>
 "Team Innocent: The Point of No Return - G.C.P.O.SS" is set in the future, beginning with the Galactic Police discovering that a scientist named Cronus has conducted genetic experiments on human beings. The police chief rescues three little girls, each of whom bears the traces of these experiments.
 <br><br>
