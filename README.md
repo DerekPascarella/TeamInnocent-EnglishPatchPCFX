@@ -228,7 +228,7 @@ Choose your combat style from four dynamic modes: punching, kicking, shooting, a
 </ul>
 
 <h2>Maps</h2>
-Click the image below to access maps for all three missions.
+Explore every corner of the game with detailed area maps for all three missions! Click the image below to dive into these handy guides and ensure you never miss a crucial item, hidden path, or puzzle solution.
 <br><br>
 <p align="center"><a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/tree/main/maps"><img border="0" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/maps.png?raw=true"></p></a>
 
