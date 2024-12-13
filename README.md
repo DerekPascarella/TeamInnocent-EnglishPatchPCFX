@@ -15,8 +15,9 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 4. [What's Changed](#whats-changed)
 5. [About the Game](#about-the-game)
 6. [Controls](#controls)
-7. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
-8. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
+7. [Maps](#maps)
+8. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
+9. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
 This English translation patch release includes a custom patch-applying kit. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
@@ -226,6 +227,10 @@ Choose your combat style from four dynamic modes: punching, kicking, shooting, a
    </table>
 </ul>
 
+<h2>Maps</h2>
+Click the image below to access maps for all three missions.
+<br><br>
+<p align="center"><a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/tree/main/maps"><img border="0" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/maps.png?raw=true"></p></a>
 
 <h2>Known Issues and Project Roadmap</h2>
 As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
