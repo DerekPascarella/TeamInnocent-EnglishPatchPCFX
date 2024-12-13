@@ -14,8 +14,9 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 3. [Release Changelog](#release-changelog)
 4. [What's Changed](#whats-changed)
 5. [About the Game](#about-the-game)
-6. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
-7. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
+6. [Controls](#controls)
+7. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
+8. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
 This English translation patch release includes a custom patch-applying kit. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
@@ -129,6 +130,92 @@ To apply the patch, follow the steps below.
    </tr>
 </table>
 <img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/about_the_game.png?raw=true">"Team Innocent: The Point of No Return - G.C.P.O.SS" is an adventure game with action elements, consisting of three separate missions. The player controls Saki most of the time, but other girls temporarily become available as playable characters as well. The heroine must explore a large location, collecting items and solving a few puzzles on the way. The young women can also find and equip various weapons, from pistols to axes. The player can choose one of the four action modes: punching, kicking, shooting, and (in specific instances only) jumping. The girls are navigated from third-person perspective on pre-rendered backgrounds with constantly changing camera angles, similarly to the "Alone in the Dark" games, except for the protagonists being sprites and not 3D models. The game has a few anime-style cutscenes and voice-overs for dialogues.
+
+<h2>Controls</h2>
+<img align="right" width="250" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/controls.png?raw=true"><ul>
+   <li><b>Menu/Dialogue Navigation</b></li>
+   <br>
+   <table>
+      <tr>
+         <td>
+            Proceed with dialogue / Confirm selection
+         </td>
+         <td>
+            I button
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Go back / Exit menu
+         </td>
+         <td>
+            II button
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Start game / Skip cutscene
+         </td>
+         <td>
+            Run button
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Navigate menu
+         </td>
+         <td>
+            Directional pad
+         </td>
+      </tr>
+   </table>
+   <br>
+   <li><b>Free-Roaming Navigation</b></li>
+   <br>
+   <table>
+      <tr>
+         <td>
+            Exame Object
+         </td>
+         <td>
+            I button
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Kick / Punch / Shoot / Jump
+         </td>
+         <td>
+            II button
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Open Menu
+         </td>
+         <td>
+            III button
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Move character
+         </td>
+         <td>
+            Directional pad
+         </td>
+      </tr>
+      <tr>
+         <td>
+            Run
+         </td>
+         <td>
+            Up on directional pad twice (quickly) and hold
+         </td>
+      </tr>
+   </table>
+</ul>
+
 
 <h2>Known Issues and Project Roadmap</h2>
 As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
