@@ -1,9 +1,9 @@
 <h1>Team Innocent: The Point of No Return - "G.C.P.O.SS"</h1>
 <img width="165" height="218" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return - G.C.P.O.SS" on the NEC PC-FX.
 <br><br>
-"Team Innocent: The Point of No Return - G.C.P.O.SS" is set in the future, beginning with the Galactic Police discovering that a scientist named Cronus has conducted genetic experiments on human beings. The police chief rescues three little girls, each of whom bears the traces of these experiments.
+"Team Innocent: The Point of No Return - G.C.P.O.SS" plunges players into a futuristic saga of mystery and survival. The story begins with the Galactic Police uncovering a horrifying secret: a rogue scientist, Cronus, has been conducting forbidden genetic experiments on humans. In a daring rescue, the police chief saves three young girls, each marked by the results of these experiments.
 <br><br>
-Fast-forward fifteen years, the three young women - Saki, Lilis, and Ariel - now work for the Galactic Police, and are determined to find the truth behind their origins (and the experiments). They're sent on three dangerous missions - missions they might not survive...
+Fifteen years later, those girls - Saki, Lilis, and Ariel - have grown into determined young women, now serving the Galactic Police. Haunted by their past, they embark on a perilous quest to uncover the truth behind their origins and Cronus's sinister experiments. Their journey unfolds across three life-threatening missions, each more dangerous than the last. Success is uncertain, and survival is far from guaranteed...
 <br><br>
 The latest version of this patch is <a href="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/releases/download/1.0/Jung.Rhythm.English.-.v1.0.zip">0.9</a>.
 
