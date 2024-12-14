@@ -103,7 +103,7 @@ To apply the patch, follow the steps below.
     <li>Menu and system messages.</li>
     <li>Staff credits.</li>
    </ul>
-   <li>ASCII support added to text-rendering routine.</li>
+   <li>ASCII support has been extended to all text-rendering routines.</li>
    <li>A new bi-width font has been implemented.</li>
 </ul>
 
