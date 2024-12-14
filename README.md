@@ -96,6 +96,8 @@ To apply the patch, follow the steps below.
 <h2>What's Changed</h2>
 <img width="250" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/whats_changed.png?raw=true">
 <ul>
+   <li>ASCII support has been extended to all text-rendering routines.</li>
+   <li>A new bi-width font has been implemented.</li>
    <li>All text has been translated to English.</li>
    <ul>
     <li>Dialogue text.</li>
@@ -103,8 +105,6 @@ To apply the patch, follow the steps below.
     <li>Menu and system messages.</li>
     <li>Staff credits.</li>
    </ul>
-   <li>ASCII support has been extended to all text-rendering routines.</li>
-   <li>A new bi-width font has been implemented.</li>
 </ul>
 
 <h2>About the Game</h2>
