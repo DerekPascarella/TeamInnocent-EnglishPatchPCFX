@@ -100,10 +100,10 @@ To apply the patch, follow the steps below.
    <li>A new bi-width font has been implemented.</li>
    <li>All text has been translated to English.</li>
    <ul>
-    <li>Dialogue text.</li>
-    <li>Non-FMV cutscene text.</li>
-    <li>Menu and system messages.</li>
-    <li>Staff credits.</li>
+    <li>Dialogue text</li>
+    <li>Non-FMV cutscene text</li>
+    <li>Menu and system messages</li>
+    <li>Staff credits</li>
    </ul>
 </ul>
 
