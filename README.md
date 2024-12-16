@@ -15,10 +15,11 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 4. [What's Changed](#whats-changed)
 5. [About the Game](#about-the-game)
 6. [Controls](#controls)
-7. [Maps](#maps)
-8. [Subtitled FMVs](#subtitled-fmvs)
-9. [Current Limitations and Project Roadmap](#current-limitations-and-project-roadmap)
-10. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
+7. [Subtitled FMVs](#subtitled-fmvs)
+8. [Maps](#maps)
+9. [Walkthrough Guide](#walkthrough-guide)
+10. [Current Limitations and Project Roadmap](#current-limitations-and-project-roadmap)
+11. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
 This English translation patch release includes a custom patch-applying kit. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
@@ -228,11 +229,6 @@ Players choose their combat style from four dynamic modes: punching, kicking, sh
    </table>
 </ul>
 
-<h2>Maps</h2>
-Explore every corner of the game with detailed area maps for all three missions! Click the image below to dive into these handy guides and ensure you never miss a crucial item, hidden path, or puzzle solution.
-<br><br>
-<p align="center"><a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/tree/main/maps"><img border="0" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/maps.png?raw=true"></p></a>
-
 <h2>Subtitled FMVs</h2>
 <img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/subtitled_fmvs.png?raw=true">Although re-encoded subtitled FMVs have not been integrated into the patched game directly as of version 0.9 (see the <a href="#current-limitations-and-project-roadmap">Current Limitations and Project Roadmap</a> section), players can still watch them in order to gain a full-scope understanding of the story behind "Team Innocent: The Point of No Return - G.C.P.O.SS".
 <br><br>
@@ -304,6 +300,14 @@ These subtitled videos are accessible in <a href="https://www.youtube.com/playli
       </td>
    </tr>   
 </table>
+
+<h2>Maps</h2>
+Explore every corner of the game with detailed area maps for all three missions! Click the image below to dive into these handy guides and ensure you never miss a crucial item, hidden path, or puzzle solution.
+<br><br>
+<p align="center"><a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/tree/main/maps"><img border="0" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/maps.png?raw=true"></p></a>
+
+<h2>Walkthrough Guide</h2>
+Team member Josh (hasnopants) has compiled a brand-new walkthrough guide for first-time (or returning) players of "Team Innocent: The Point of No Return - G.C.P.O.SS". The guide PDF can be <a href="xxx">downloaded directly from this repository</a>.
 
 <h2>Current Limitations and Project Roadmap</h2>
 As of version 0.9, the challenging nature of working with the PC-FX console has prevented the re-encoding and direct integration of subtitled FMVs into the patched game. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
