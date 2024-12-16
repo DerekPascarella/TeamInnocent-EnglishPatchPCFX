@@ -238,7 +238,74 @@ Explore every corner of the game with detailed area maps for all three missions!
 <br><br>
 These subtitled videos are accessible in <a href="xxx">this YouTube playlist</a>.
 <br><br>
-There are seven in total, each labeled according to their respective scene.
+There are seven in total, with their location in the game noted below.
+<br><br>
+<table>
+   <tr>
+      <td>
+         <b>Video Name</b>
+      </td>
+      <td>
+         <b>Location</b>
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Opening
+      </td>
+      <td>
+         Prologue
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Saki's Shower Scene
+      </td>
+      <td>
+         Mission 1
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Cronus Exposition
+      </td>
+      <td>
+         Mission 2
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Cronus' Trial
+      </td>
+      <td>
+         Mission 3
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Meeting
+      </td>
+      <td>
+         Mission 3
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Cronus and His Girls
+      </td>
+      <td>
+         Mission 3
+      </td>
+   </tr>
+   <tr>
+      <td>
+         Human Experimentation
+      </td>
+      <td>
+         Mission 3
+      </td>
+   </tr>   
+</table>
 
 <h2>Known Issues and Project Roadmap</h2>
 Due to the challenging nature of working on the PC-FX console, no FMVs have been subtitled and re-encoded as of version 0.9 of this patch. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
