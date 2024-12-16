@@ -237,6 +237,8 @@ Explore every corner of the game with detailed area maps for all three missions!
 <img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/subtitled_fmvs.png?raw=true">Although re-encoded subtitled FMVs have not been integrated into the patched game directly as of version 0.9, players can still watch them in order to gain a full-scope understanding of the story behind "Team Innocent: The Point of No Return - G.C.P.O.SS".
 <br><br>
 These subtitled videos are accessible in <a href="xxx">this YouTube playlist</a>.
+<br><br>
+There are seven in total, each labeled according to their respective scene.
 
 <h2>Known Issues and Project Roadmap</h2>
 Due to the challenging nature of working on the PC-FX console, no FMVs have been subtitled and re-encoded as of version 0.9 of this patch. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
