@@ -17,7 +17,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 6. [Controls](#controls)
 7. [Maps](#maps)
 8. [Subtitled FMVs](#subtitled-fmvs)
-9. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
+9. [Current Limitations and Project Roadmap](#current-limitations-and-project-roadmap)
 10. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
@@ -305,7 +305,7 @@ These subtitled videos are accessible in <a href="xxx">this YouTube playlist</a>
    </tr>   
 </table>
 
-<h2>Known Issues and Project Roadmap</h2>
+<h2>Current Limitations and Project Roadmap</h2>
 Due to the challenging nature of working on the PC-FX console, no FMVs have been subtitled and re-encoded as of version 0.9 of this patch. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
 <br><br>
 Additionally, the very few instances of graphics containing Japanese text have not been modified in version 0.9, though this project aims to tackle them eventually. See example below.
