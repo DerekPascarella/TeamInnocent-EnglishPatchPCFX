@@ -306,7 +306,7 @@ These subtitled videos are accessible in <a href="xxx">this YouTube playlist</a>
 </table>
 
 <h2>Current Limitations and Project Roadmap</h2>
-Due to the challenging nature of working on the PC-FX console, no FMVs have been subtitled and re-encoded as of version 0.9 of this patch. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
+As of version 0.9, the challenging nature of working with the PC-FX console has prevented the re-encoding and direct integration of subtitled FMVs into the patched game. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
 <br><br>
 Additionally, the very few instances of graphics containing Japanese text have not been modified in version 0.9, though this project aims to tackle them eventually. See example below.
 <br><br>
