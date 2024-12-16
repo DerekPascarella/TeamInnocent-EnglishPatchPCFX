@@ -1,4 +1,4 @@
-<h1>Team Innocent: The Point of No Return - "G.C.P.O.SS"</h1>
+<h1>Team Innocent: The Point of No Return - G.C.P.O.SS</h1>
 <img width="165" height="218" align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/cover.png?raw=true">English translation patch for "Team Innocent: The Point of No Return - G.C.P.O.SS" on the NEC PC-FX.
 <br><br>
 "Team Innocent: The Point of No Return - G.C.P.O.SS" plunges players into a futuristic saga of mystery and survival. The story begins with the Galactic Police uncovering a horrifying secret: a rogue scientist, Cronus, has been conducting forbidden genetic experiments on humans. In a daring rescue, the police chief saves three young girls, each marked by the results of these experiments.
@@ -16,8 +16,9 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 5. [About the Game](#about-the-game)
 6. [Controls](#controls)
 7. [Maps](#maps)
-8. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
-9. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
+8. [Subtitled FMVs](#subtitled-fmvs)
+9. [Known Issues and Project Roadmap](#known-issues-and-project-roadmap)
+10. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
 This English translation patch release includes a custom patch-applying kit. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
@@ -232,8 +233,13 @@ Explore every corner of the game with detailed area maps for all three missions!
 <br><br>
 <p align="center"><a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/tree/main/maps"><img border="0" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/maps.png?raw=true"></p></a>
 
+<h2>Subtitled FMVs</h2>
+<img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/subtitled_fmvs.png?raw=true">Although re-encoded subtitled FMVs have not been integrated into the patched game directly as of version 0.9, players can still watch them in order to gain a full-scope understanding of the story behind "Team Innocent: The Point of No Return - G.C.P.O.SS".
+<br><br>
+These subtitled videos are accessible in <a href="xxx">this YouTube playlist</a>.
+
 <h2>Known Issues and Project Roadmap</h2>
-As of version 0.9, no FMVs have been subtitled and re-encoded. The PC-FX is a challenging platform on which to work. While the project aims to eventually include subtitled FMVs, a later release will include a companion document containing translations for all cutscene FMVs.
+Due to the challenging nature of working on the PC-FX console, no FMVs have been subtitled and re-encoded as of version 0.9 of this patch. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
 <br><br>
 Additionally, the very few instances of graphics containing Japanese text have not been modified in version 0.9, though this project aims to tackle them eventually. See example below.
 <br><br>
