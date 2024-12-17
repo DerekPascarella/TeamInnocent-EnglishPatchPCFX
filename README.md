@@ -307,9 +307,11 @@ Explore every corner of the game with detailed area maps for all three missions!
 <p align="center"><a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/tree/main/maps"><img border="0" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/maps.png?raw=true"></p></a>
 
 <h2>Walkthrough Guide</h2>
-Team member Josh (hasnopants) has compiled a brand-new walkthrough guide for first-time (or returning) players of "Team Innocent: The Point of No Return - G.C.P.O.SS". The guide PDF can be <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/misc/Team%20Innocent%20-%20Walkthrough%20Guide.pdf">downloaded directly from this repository</a>.
+<img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/walkthrough.png?raw=true">Team member Josh (hasnopants) has compiled a brand-new walkthrough guide for first-time (or returning) players of "Team Innocent: The Point of No Return - G.C.P.O.SS". The guide PDF can be <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/misc/Team%20Innocent%20-%20Walkthrough%20Guide.pdf">downloaded directly from this repository</a>.
 <br><br>
 Presently, this guide covers Mission 1. Until the second and third missions are added, players can consult the <a href="https://gamefaqs.gamespot.com/pcfx/587909-team-innocent-the-point-of-no-return/faqs/49388">legacy GameFAQs walkthrough</a>.
+<br><br>
+The <a href="#maps">Maps</a> section can also be consulted for additional guidance.
 
 <h2>Current Limitations and Project Roadmap</h2>
 As of version 0.9, this English translation patch has the following limitations.
