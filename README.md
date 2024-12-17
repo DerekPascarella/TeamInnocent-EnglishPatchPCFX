@@ -335,4 +335,4 @@ As of version 0.9, this English translation patch has the following limitations.
 <h2>Reporting Bugs and Typos</h2>
 Even after extensive testing on both real hardware and on emulators, the presence of bugs or typos may be possible. Should a player encounter any such issue, it's kindly requested that they <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/issues/new">submit a new issue</a> to this project page, including as much detailed information as possible.
 <br><br>
-Before submitting a new issue, please be sure it hasn't already been addressed in the <a href="#known-issues-and-project-roadmap">Known Issues and Project Roadmap</a> section.
+Before submitting a new issue, please be sure it hasn't already been addressed in the <a href="#current-limitations-and-project-roadmap">Current Limitations and Project Roadmap</a> section.
