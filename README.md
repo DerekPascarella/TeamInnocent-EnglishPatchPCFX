@@ -307,14 +307,27 @@ Explore every corner of the game with detailed area maps for all three missions!
 <p align="center"><a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/tree/main/maps"><img border="0" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/maps.png?raw=true"></p></a>
 
 <h2>Walkthrough Guide</h2>
-Team member Josh (hasnopants) has compiled a brand-new walkthrough guide for first-time (or returning) players of "Team Innocent: The Point of No Return - G.C.P.O.SS". The guide PDF can be <a href="xxx">downloaded directly from this repository</a>.
+Team member Josh (hasnopants) has compiled a brand-new walkthrough guide for first-time (or returning) players of "Team Innocent: The Point of No Return - G.C.P.O.SS". The guide PDF can be <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/misc/Team%20Innocent%20-%20Walkthrough%20Guide.pdf">downloaded directly from this repository</a>.
+<br><br>
+Presently, this guide covers Mission 1. Until the second and third missions are added, players can consult the <a href="https://gamefaqs.gamespot.com/pcfx/587909-team-innocent-the-point-of-no-return/faqs/49388">legacy GameFAQs walkthrough</a>.
 
 <h2>Current Limitations and Project Roadmap</h2>
-As of version 0.9, the challenging nature of working with the PC-FX console has prevented the re-encoding and direct integration of subtitled FMVs into the patched game. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
-<br><br>
-Additionally, the very few instances of graphics containing Japanese text have not been modified in version 0.9, though this project aims to tackle them eventually. See example below.
-<br><br>
-<img width="432" height="348" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/known_issues_1.png?raw=true">
+As of version 0.9, this English translation patch has the following limitations.
+<ul>
+   <li>
+      The challenging nature of working with the PC-FX console has prevented the re-encoding and direct integration of subtitled FMVs into the patched game. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
+      <br>
+   </li>
+   <li>
+      Character lip flaps that occur during dialogue text are in a partially broken state. Currently, the game has been optimized so that dialogue text is printed to the screen at a quick, steady rate in order to assist with overall pacing. As a result, character lip flaps halt prematurely (i.e., they stop when the text finishes rendering instead of when the voiceover completes).
+      <br>
+   </li>
+   <li>
+      The very few instances of graphics containing Japanese text have not been modified, though this project aims to tackle them eventually. See example below.
+      <br><br>
+      <img width="432" height="348" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/known_issues_1.png?raw=true">
+   </li>
+</ul>
 
 <h2>Reporting Bugs and Typos</h2>
 Even after extensive testing on both real hardware and on emulators, the presence of bugs or typos may be possible. Should a player encounter any such issue, it's kindly requested that they <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/issues/new">submit a new issue</a> to this project page, including as much detailed information as possible.
