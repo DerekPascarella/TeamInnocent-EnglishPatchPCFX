@@ -69,7 +69,8 @@ To apply the patch, follow the steps below.
       <li>Galaga</li>
       <li>articution</li>
       <li>Regis Galland</li>
-      <li>Shentok</li> 
+      <li>Shentok</li>
+      <li>Benjamin Yoder</li>
    </ul>
    <br>
    <li>
@@ -84,6 +85,7 @@ To apply the patch, follow the steps below.
    </li>
    <ul>
       <li>David Shadoff</li>
+      <li>PC-FX Fan Club</li>
    </ul>
 </ul>
 
