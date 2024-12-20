@@ -5,7 +5,7 @@
 <br><br>
 Fifteen years later, those girls - Saki, Lilis, and Ariel - have grown into determined young women, now serving the Galactic Police. Haunted by their past, they embark on a perilous quest to uncover the truth behind their origins and Cronus's sinister experiments. Their journey unfolds across three life-threatening missions, each more dangerous than the last. Success is uncertain, and survival is far from guaranteed...
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/JungRhythm-EnglishPatchSaturn/releases/download/1.0/Jung.Rhythm.English.-.v1.0.zip">0.9</a>.
+The latest version of this patch is <a href="xxxx">0.9</a>.
 
 <h2>Table of Contents</h2>
 
@@ -27,7 +27,7 @@ This English translation patch release includes a custom patch-applying kit. It 
 To apply the patch, follow the steps below.
 <br><br>
 <ol type="1">
-   <li>Extract the <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/releases">release package ZIP</a> to any folder of your choosing.</li>
+   <li>Extract the <a href="xxxx">latest release package ZIP</a> to any folder of your choosing.</li>
    <li>Place the entire Redump disc image in the <tt>original_redump_disc_image</tt> folder (as per the screenshot below).</li>
    <img src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/instructions_1.png?raw=true">
    <li>Lanch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch.</li>
