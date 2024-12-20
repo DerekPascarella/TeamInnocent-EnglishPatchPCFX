@@ -18,8 +18,9 @@ The latest version of this patch is <a href="xxxx">0.9</a>.
 7. [Subtitled FMVs](#subtitled-fmvs)
 8. [Maps](#maps)
 9. [Walkthrough Guide](#walkthrough-guide)
-10. [Current Limitations and Project Roadmap](#current-limitations-and-project-roadmap)
-11. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
+10. [Launch Trailer](#launch-trailer)
+11. [Current Limitations and Project Roadmap](#current-limitations-and-project-roadmap)
+12. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
 This English translation patch release includes a custom patch-applying kit. It specifically targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, and no other version of the original source disc image can be used.
@@ -314,6 +315,11 @@ Explore every corner of the game with detailed area maps for all three missions!
 Currently, the guide covers Mission 1. Until the sections for Missions 2 and 3 are completed, players can refer to the <a href="https://gamefaqs.gamespot.com/pcfx/587909-team-innocent-the-point-of-no-return/faqs/49388">legacy GameFAQs walkthrough</a> for further assistance.
 <br><br>
 For additional help, players should remember to check out the resources available in the <a href="#maps">Maps</a> section.
+
+<h2>Launch Trailer</h2>
+Watch the exciting patch launch trailer created by Benjamin Yoder of the <a href="https://www.youtube.com/@pcfxfanclub">PC-FX Fan Club</a>.
+<br><br>
+<a href="https://www.youtube.com/watch?v=qzWImt_OggQ"><img border="0" width="395" height="309" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/trailer.png?raw=true"></a>
 
 <h2>Current Limitations and Project Roadmap</h2>
 As of version 0.9, this English translation patch has the following limitations.
