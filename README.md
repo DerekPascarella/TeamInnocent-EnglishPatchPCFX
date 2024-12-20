@@ -22,7 +22,7 @@ The latest version of this patch is <a href="https://github.com/DerekPascarella/
 11. [Reporting Bugs and Typos](#reporting-bugs-and-typos)
 
 <h2>Patching Instructions</h2>
-This English translation patch release includes a custom patch-applying kit. It targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, labeled <tt>Team Innocent: The Point of No Return: "G.C.P.O.SS"</tt>.
+This English translation patch release includes a custom patch-applying kit. It specifically targets the <a href="http://redump.org/disc/47966/">Redump</a> rip, and no other version of the original source disc image can be used.
 <br><br>
 To apply the patch, follow the steps below.
 <br><br>
