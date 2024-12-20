@@ -324,7 +324,7 @@ As of version 0.9, this English translation patch has the following limitations.
       <br><br>
    </li>
    <li>
-      Character lip flaps that occur during dialogue text are in a partially broken state. Currently, the game has been optimized so that dialogue text is printed to the screen at a quick, steady rate in order to assist with overall pacing. As a result, character lip flaps halt prematurely (i.e., they stop when the text finishes rendering instead of when the voiceover completes). This project aims to eventually remedy this in a future update.
+      Some character lip flaps that occur during dialogue text are in a partially broken state. Currently, most of the game has been optimized so that dialogue text is printed to the screen at a quick, steady rate in order to assist with overall pacing. As a result, in some cases character lip flaps halt prematurely (i.e., they stop when the text finishes rendering instead of when the voiceover completes). While much of the dialogue text has been hand-tweaked to mitigate the issue, this project aims to eventually remedy it in its entirety with a future update.
       <br><br>
    </li>
    <li>
