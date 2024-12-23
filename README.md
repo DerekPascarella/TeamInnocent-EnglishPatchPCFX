@@ -235,7 +235,7 @@ Players choose their combat style from four dynamic modes: punching, kicking, sh
 <h2>Subtitled FMVs</h2>
 <img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/subtitled_fmvs.png?raw=true">Although re-encoded subtitled FMVs have not been integrated into the patched game directly as of version 0.9 (see the <a href="#current-limitations-and-project-roadmap">Current Limitations and Project Roadmap</a> section), players can still watch them in order to gain a full-scope understanding of the story behind "Team Innocent: The Point of No Return - G.C.P.O.SS".
 <br><br>
-These subtitled videos are accessible in <a href="https://www.youtube.com/playlist?list=PLkybU1NLulWjGzJ9sJUzR4nR79GlqCofX">this YouTube playlist</a>. There are seven in total, with their location in the game noted below.
+These subtitled videos are accessible in <a href="https://www.youtube.com/playlist?list=PL4AWCBi_wPDf1fqTHrkHodmg8y0A5f7bS">this YouTube playlist</a>. There are seven in total, with their location in the game noted below.
 <br><br>
 <table>
    <tr>
