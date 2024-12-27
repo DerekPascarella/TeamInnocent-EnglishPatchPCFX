@@ -31,7 +31,7 @@ To apply the patch, follow the steps below.
    <li>Extract the <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/releases/download/0.9/Team.Innocent.-.The.Point.of.No.Return.-.G.C.P.O.SS.English.v0.9.zip">latest release package ZIP</a> to any folder of your choosing.</li>
    <li>Place the entire Redump disc image in the <tt>original_redump_disc_image</tt> folder (as per the screenshot below).</li>
    <img src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/instructions_1.png?raw=true">
-   <li>Lanch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch.</li>
+   <li>Launch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch.</li>
    <li>Upon successful completion, the patched disc image (in CUE/ISO/BIN format) will reside in the <tt>patched_disc_image</tt> folder. This disc image is acceptable for burning and using on real PC-FX hardware, or for using with an emulator.</li>
 </ol>
 
