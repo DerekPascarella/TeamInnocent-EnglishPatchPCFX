@@ -28,7 +28,7 @@ This English translation patch release includes a custom patch-applying kit. It 
 To apply the patch, follow the steps below.
 <br><br>
 <ol type="1">
-   <li>Extract the <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/releases/download/0.9/Team.Innocent.-.The.Point.of.No.Return.-.G.C.P.O.SS.English.v0.9.zip">latest release package ZIP</a> to any folder of your choosing.</li>
+   <li>Extract the <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/releases/download/0.9.1/Team.Innocent.-.The.Point.of.No.Return.-.G.C.P.O.SS.English.v0.9.1.zip">latest release package ZIP</a> to any folder of your choosing.</li>
    <li>Place the entire Redump disc image in the <tt>original_redump_disc_image</tt> folder (as per the screenshot below).</li>
    <img src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/instructions_1.png?raw=true">
    <li>Launch the <tt>apply_patch.bat</tt> script and watch for status messages as it applies the patch.</li>
@@ -238,7 +238,7 @@ Players choose their combat style from four dynamic modes: punching, kicking, sh
 </ul>
 
 <h2>Subtitled FMVs</h2>
-<img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/subtitled_fmvs.png?raw=true">Although re-encoded subtitled FMVs have not been integrated into the patched game directly as of version 0.9 (see the <a href="#current-limitations-and-project-roadmap">Current Limitations and Project Roadmap</a> section), players can still watch them in order to gain a full-scope understanding of the story behind "Team Innocent: The Point of No Return - G.C.P.O.SS".
+<img align="right" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/subtitled_fmvs.png?raw=true">Although re-encoded subtitled FMVs have not been integrated into the patched game directly as of version 0.9.1 (see the <a href="#current-limitations-and-project-roadmap">Current Limitations and Project Roadmap</a> section), players can still watch them in order to gain a full-scope understanding of the story behind "Team Innocent: The Point of No Return - G.C.P.O.SS".
 <br><br>
 These subtitled videos are accessible in <a href="https://www.youtube.com/playlist?list=PL4AWCBi_wPDf1fqTHrkHodmg8y0A5f7bS">this YouTube playlist</a>. There are seven in total, with their location in the game noted below.
 <br><br>
