@@ -5,7 +5,7 @@
 <br><br>
 Fifteen years later, those girls - Saki, Lilis, and Ariel - have grown into determined young women, now serving the Galactic Police. Haunted by their past, they embark on a perilous quest to uncover the truth behind their origins and Cronus's sinister experiments. Their journey unfolds across three life-threatening missions, each more dangerous than the last. Success is uncertain, and survival is far from guaranteed...
 <br><br>
-The latest version of this patch is <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/releases/download/0.9/Team.Innocent.-.The.Point.of.No.Return.-.G.C.P.O.SS.English.v0.9.zip">0.9</a>.
+The latest version of this patch is <a href="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/releases/download/0.9.1/Team.Innocent.-.The.Point.of.No.Return.-.G.C.P.O.SS.English.v0.9.1.zip">0.9.1</a>.
 
 <h2>Table of Contents</h2>
 
@@ -92,6 +92,11 @@ To apply the patch, follow the steps below.
 
 <h2>Release Changelog</h2>
 <ul>
+ <li><b>Version 0.9.1 (2025-02-12)</b></li>
+ <ul>
+  <li>All dialogue text is now timed to be synchronized with voice acting and lip movements.</li>
+  <li>Saki's name plate in the Status menu now appears in English.</li>
+ </ul>
  <li><b>Version 0.9 (2024-12-23)</b></li>
  <ul>
   <li>Initial release.</li>
@@ -322,21 +327,12 @@ Watch the exciting patch launch trailer created by Benjamin Yoder of the <a href
 <a href="https://www.youtube.com/watch?v=qzWImt_OggQ"><img border="0" width="395" height="309" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/trailer.png?raw=true"></a>
 
 <h2>Current Limitations and Project Roadmap</h2>
-As of version 0.9, this English translation patch has the following limitations.
+As of version 0.9.1, this English translation patch has the following limitations.
 <br><br>
 <ul>
    <li>
       The challenging nature of working with the PC-FX console has prevented the re-encoding and direct integration of subtitled FMVs into the patched game. While the project aims to eventually include subtitled FMVs in the patched game itself, they are presently available separately for players to watch (see the <a href="#subtitled-fmvs">Subtitled FMVs</a> section).
       <br><br>
-   </li>
-   <li>
-      Some character lip flaps that occur during dialogue text are in a partially broken state. Currently, most of the game has been optimized so that dialogue text is printed to the screen at a quick, steady rate in order to assist with overall pacing. As a result, in some cases character lip flaps halt prematurely (i.e., they stop when the text finishes rendering instead of when the voiceover completes). While much of the dialogue text has been hand-tweaked to mitigate the issue, this project aims to eventually remedy it in its entirety with a future update.
-      <br><br>
-   </li>
-   <li>
-      The very few instances of graphics containing Japanese text have not been modified, though this project aims to tackle them eventually. See example below.
-      <br><br>
-      <img width="432" height="348" src="https://github.com/DerekPascarella/TeamInnocent-EnglishPatchPCFX/blob/main/images/known_issues_1.png?raw=true">
    </li>
 </ul>
 
