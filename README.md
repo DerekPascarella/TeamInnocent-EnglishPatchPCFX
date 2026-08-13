@@ -97,7 +97,7 @@ To apply the patch, follow the steps below.
   <li>All dialogue text is now timed to be synchronized with voice acting and lip movements.</li>
   <li>Saki's name plate in the Status menu now appears in English.</li>
  </ul>
- <li><b>Version 0.9 (2024-12-23)</b></li>
+ <li><b>Version 0.9.0 (2024-12-23)</b></li>
  <ul>
   <li>Initial release.</li>
  </ul>
